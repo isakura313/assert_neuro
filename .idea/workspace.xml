@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddadeb22-2e67-4d32-bc3d-d59cefe3d015" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aDCAym8iX7JGafKWAllmhM0Y3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="assert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/assert/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/assert/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.assert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddadeb22-2e67-4d32-bc3d-d59cefe3d015" name="Default Changelist" comment="" />
+      <created>1586260638420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586260638420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="52" width="1184" height="848" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586260728192">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="52" width="1184" height="848" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1586260728192" />
+    <state width="1414" height="211" key="GridCell.Tab.0.bottom" timestamp="1586275063112">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1414" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586263302659" />
+    <state width="1414" height="211" key="GridCell.Tab.0.bottom/0.23.1440.792@0.23.1440.792" timestamp="1586275063112" />
+    <state width="1414" height="211" key="GridCell.Tab.0.center" timestamp="1586275063106">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1414" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586263302657" />
+    <state width="1414" height="211" key="GridCell.Tab.0.center/0.23.1440.792@0.23.1440.792" timestamp="1586275063106" />
+    <state width="1414" height="211" key="GridCell.Tab.0.left" timestamp="1586275063104">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1414" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586263302656" />
+    <state width="1414" height="211" key="GridCell.Tab.0.left/0.23.1440.792@0.23.1440.792" timestamp="1586275063104" />
+    <state width="1414" height="211" key="GridCell.Tab.0.right" timestamp="1586275063108">
+      <screen x="0" y="23" width="1440" height="792" />
+    </state>
+    <state width="1414" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586263302658" />
+    <state width="1414" height="211" key="GridCell.Tab.0.right/0.23.1440.792@0.23.1440.792" timestamp="1586275063108" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1586261583004">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1586261583004" />
+    <state x="282" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1586260652835">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="282" y="246" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586260652835" />
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup" timestamp="1586263668757">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="301" y="0" width="838" height="1032" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586263668757" />
+  </component>
+</project>
